@@ -27,7 +27,7 @@ An interactive, high-performance web application designed for microbiologists, g
 
 ## 🛠️ Tech Stack & Architecture
 
-* **Programming Language:** Python 3.8+
+* **Programming Language:** Python 3.11+
 * **User Interface:** Streamlit (Configured in Wide Layout mode)
 * **Bioinformatics Engine:** Biopython (`Bio.SeqIO` & `Bio.Align.PairwiseAligner`)
 * **Data Processing:** NumPy & Pandas
